@@ -1,0 +1,8 @@
+/*
+Title: Grade Calculator
+Written By: Dylan Bakr
+For: CS142 - Chen 1:00 p.m. T,TH
+*/
+
+#include <iostream>
+using namespace std;
